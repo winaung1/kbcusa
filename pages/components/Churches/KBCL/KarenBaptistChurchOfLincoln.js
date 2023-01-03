@@ -35,6 +35,7 @@ function KarenBaptistChurchOfLincoln() {
           para2={<KBCLParagraph2Right/>}
           para3={<KBCLParagraph3Right/>}
           para4={<KBCLParagraph4Right/>}
+          para5={<KBCLParagraph4Right/>}
           title3="w> td. zSd. ySR wD cd. &d. rJ w>"
           title4="(cIw)A c&amp;Hm  zd w&gt; od. vdySR b. rl b. 'g w z. rh&gt; 0J"
           title5="w&gt;  td. zSd. t w&gt; [l; w&gt; *JR "
@@ -42,6 +43,8 @@ function KarenBaptistChurchOfLincoln() {
           line2={<hr className='w-[98%] border-[.5px] border-black'/>}
           line3={<hr className='w-[98%] border-[.5px] border-black'/>}
           line4={<hr className='w-[98%] border-[.5px] border-black'/>}
+          line5={<hr className='w-[98%] border-[.5px] border-black'/>}
+          line6={<hr className='w-[98%] border-[.5px] border-black'/>}
         />
     </div>
     <Footer/>

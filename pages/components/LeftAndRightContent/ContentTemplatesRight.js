@@ -1,7 +1,7 @@
 import React from 'react'
 
 function ContentTemplatesRight({title1, title2, title3, title4, title5, title6, titleSpan, 
-  line1, line2, line3, line4, line5, 
+  line1, line2, line3, line4, line5, line6, para5,
   para1, para2, para3, para4}) {
   return (
     <div className='px-5 w-[80%] p-2 text-xl'>

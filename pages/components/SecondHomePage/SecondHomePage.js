@@ -4,8 +4,6 @@ import Header from '../Header'
 import Navbar from '../Navbar'
 import SecondMainContent from './SecondMainContent'
 
-
-
 function SecondHomePage() {
   return (
     <div className='w-[1023px] mx-auto min-h-screen'>

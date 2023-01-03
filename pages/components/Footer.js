@@ -165,7 +165,7 @@ function Footer() {
           <FaRegCopyright/>
           <p>NORTH REGION KAREN BAPTIST CHURCHES</p>
         </div>
-        <h1 className='font-sans text-center'>Web Design by <span className='font-KNU text-2xl'>ဝ့မၠံၣ်အီၤ</span> (Win Aung)</h1>
+        <h1 className='font-sans text-center'>Web Design by ဝ့မၠံၣ်အီၤ (Win Aung)</h1>
       </div>
     </div>
 
