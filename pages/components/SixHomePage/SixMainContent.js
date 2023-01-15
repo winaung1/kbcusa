@@ -11,7 +11,7 @@ function SixMainContent({handleSubmit,setHandleSumbit}) {
     e.preventDefault();
       
       setHandleSumbit(true)
-      emailjs.sendForm('service_b1flkte', 'template_8bn17ud', form.current, 'ZxuKELkVUqLJ1X_yP')
+      emailjs.sendForm('service_rqqjfso', 'template_oiy1d86', form.current, 'qvH0s6RihdBrsoCTy')
         .then((result) => {
             console.log(result.text);
         }, (error) => {

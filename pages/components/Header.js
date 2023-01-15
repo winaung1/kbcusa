@@ -8,7 +8,7 @@ function Header() {
           <Image src='/kbcusalogo.png' width={140} height={140} alt='logo'/>
         </div>
         <div className='text-4xl'>
-          <h1 className='font-sans pb-3'>Central North Area</h1>
+          <h1 className='font-sans pb-3'>Central North Area </h1>
           <p>ခၢၣ်သးကလံၤကဝီၤ</p>
         </div>
         <div>
