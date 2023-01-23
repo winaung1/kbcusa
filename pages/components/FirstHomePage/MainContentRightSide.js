@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 import HomePagePastorsImg from '../HomePagePastorsImg'
-
+import {ChevronDownIcon} from '@heroicons/react/24/solid'
 function MainContentRightSide() {
   return (
     <div className='p-2 flex-1'>
@@ -36,8 +36,37 @@ c& Hmzdw>td.zSd.
 (0h> td. r [.)" alt='EhWah' link="/components/EKBC/EmmanuelKarenBaptistChurch"/>
         <HomePagePastorsImg img='/images/homePageRightSideImages/pastor-1.gif' definition="cJpX.pH;xHRcJpX.unDbsXxH
 c&Hmzdw>td.zSd.
+(0h> cJpJX.)" alt='paster-1'link="/components/Churches/KCKKBC/KansasCityKansasKarenBaptistChurch"/>
+        <HomePagePastorsImg img='/images/homePageRightSideImages/Debora.jpg' definition="cJpX.pH;xHRcJpX.unDbsXxH
+c&Hmzdw>td.zSd.
 (0h> cJpJX.)" alt='paster-1'link="/components/Churches/KCKKBC/KansasCityKansasKarenBaptistChurch"/> 
       </div>
+      <div>
+        <p>unD'Duvkm</p>
+      </div>
+      <div className='pt-[550px] flex font-sans justify-between text-blue-500'>
+        <div className='flex'>
+                <h1 className='text-blue-500'>exampl1 </h1>
+                <ChevronDownIcon className='w-5'/>
+        </div>
+        <div className='flex'>
+                <h1 className='text-blue-500'>exampl2 </h1>
+                <ChevronDownIcon className='w-5'/>
+
+        </div>
+        <div className='flex'>
+                <h1 className='text-blue-500'>exampl3 </h1>
+                <ChevronDownIcon className='w-5'/>
+
+
+        </div>
+        <div className='flex'>
+                <h1 className='text-blue-500'>exampl4 </h1>
+                <ChevronDownIcon className='w-5'/>
+
+        </div>
+      </div>
+
     </div>
   )
 }
