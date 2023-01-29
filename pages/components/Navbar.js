@@ -25,7 +25,7 @@ function Navbar() {
               <h1 className='border-b-[1px] hover:bg-blue-700 hover:cursor-pointer'>YOUTH DEPARTMENT</h1>
             </Link>
             <Link href="/components/womenMinistry/WomenMinistry">
-              <h1 className='border-b-[1px] hover:bg-blue-700 hover:cursor-pointer'>WOMEN DEPARTMENT</h1>
+              <h1 className='border-b-[1px] hover:bg-blue-700 hover:cursor-pointer'>WOMEN DEPARTMENTss</h1>
             </Link>
             <Link href="/components/childrenMinistry/ChildrenMinistry">
               <h1 className='border-b-[1px] hover:bg-blue-700 hover:cursor-pointer'>CHRISTIAN DEPARTMENT</h1>
