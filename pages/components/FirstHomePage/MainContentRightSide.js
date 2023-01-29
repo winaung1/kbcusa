@@ -42,7 +42,7 @@ c&Hmzdw>td.zSd.
 (0h> cJpJX.)" alt='paster-1'link="/components/Churches/KCKKBC/KansasCityKansasKarenBaptistChurch"/> 
       </div>
       <div>
-        <p>unD'Duvkm</p>
+        <p>unD&apos;Duvkm</p>
       </div>
       <div className='pt-[550px] flex font-sans justify-between text-blue-500'>
         <div className='flex'>
