@@ -1,24 +1,7 @@
-import React from 'react'
 import Image from 'next/image'
+import React from 'react'
 
-function WomenMainContent() {
-
-
-  
-  const [showYouth, setshowYouth] = useState(false)
-  const [showGKBC, setshowGKBC] = useState(false)
-
-  function handleClickYouth(){
-      setshowYouth(!showYouth);
-  }
-
-
-  function handleClick2015(){
-      setshowGKBC(!showGKBC);
-  }
-
-
-
+function KBCDYouthMainContent() {
   return (
     <div>
     <Image src='/images/WomenMinistryImage/women2015.jpg' width={1024} height={260} objectFit='cover' alt='women'/>
@@ -67,17 +50,10 @@ function WomenMainContent() {
                   2012 to 2015
               </p>
             </div>
-
-            
-
-        </div>
-
-        
-    </div>
-    
-  </div>
-  
+            </div>
+            </div>
+            </div>
   )
 }
 
-export default WomenMainContent
+export default KBCDYouthMainContent
