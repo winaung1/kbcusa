@@ -9,6 +9,8 @@ import FKBCOParagraph1Right from './FKBCOParagraph1Right'
 import FKBCOParagraph2Right from './FKBCOParagraph2Right'
 import FKBCOParagraph1Left from './FKBCOParagraph1Left'
 import FKBCOParagraph2Left from './FKBCOParagraph2Left'
+import FKBCOParagraph3Right from './FKBCOParagraph3Right'
+import FKBCOParagraph4Right from './FKBCOParagraph4Right'
 
 function FirstKarenBaptistChurchOfOmaha() {
   return (
@@ -20,7 +22,9 @@ function FirstKarenBaptistChurchOfOmaha() {
         <ContentTemplatesLeft
           title="w>td.zSd.o&." 
           pic="/images/FirstKarenBaptistChurchOfOmahaImage/Nuyttin.jpg"
-          description="o&.tgpJ;rllw>td.zSd.o&."
+          pic2="/images/FirstKarenBaptistChurchOfOmahaImage/Nuyttin.jpg"
+          description="o&.'d.rgnd.whR w>td.zSd.o&."
+          description2="o&.'d.rgnd.whR w>td.zSd.o&.pXR"
           title2="w> bg t qX u wD>"
           title3="vXw>qJ;usd;t*D>"
           para1={<FKBCOParagraph1Left/>}
@@ -33,8 +37,13 @@ function FirstKarenBaptistChurchOfOmaha() {
           title3="w&gt;  td. zSd. cd. e&gt; ySR wD cd. &amp;d. rJ w&gt; w z."
           para1={<FKBCOParagraph1Right/>}
           para2={<FKBCOParagraph2Right/>}
+          para3={<FKBCOParagraph3Right/>}
+          para4={<FKBCOParagraph4Right/>}
           line1={<hr className='w-[98%] border-[.5px] border-black'/>}
           line2={<hr className='w-[98%] border-[.5px] border-black'/>}
+          line3={<hr className='w-[98%] border-[.5px] border-black'/>}
+          line4={<hr className='w-[98%] border-[.5px] border-black'/>}
+          
         />
       </div>
       <Footer/>

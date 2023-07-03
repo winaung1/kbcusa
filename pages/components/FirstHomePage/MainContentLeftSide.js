@@ -28,16 +28,16 @@ function MainContentLeftSide() {
         <a target='_blank' className='text-2xl border-b-black border-b-[.5px] font-bold hover:text-purple-500 hover:cursor-pointer'>u&Xrd{'>'}yS{'>'} w{'>'}bsXcd.oh.</a>
       </Link>
       <Link href='/resources/Meeting_report/KBCUSA department training 2016.pdf'>
-        <a target='_blank' className='text-2xl border-b-black border-b-[.5px] font-bold hover:text-purple-500 hover:cursor-pointer'>u&Xrd{'>'}yS{'>'}`&apos;`D;0JRusdRwz. w{'>'}td.zSd.`&apos;`D;w{'>'}rRvdwz.t*h{'>'}</a>
+        <a target='_blank' className='text-2xl border-b-black border-b-[.5px] font-bold hover:text-purple-500 hover:cursor-pointer'>u&Xrd{'>'}yS{'>'}&apos;D;0JRusdRwz. w{'>'}td.zSd.&apos;D;w{'>'}rRvdwz.t*h{'>'}</a>
       </Link>
       <Link href='/resources/Meeting_report/KBCUSA evangelical department training 2016.pdf'>
-        <a target='_blank' className='text-2xl border-b-black border-b-[.5px] font-bold hover:text-purple-500 hover:cursor-pointer'>w{'>'}bd;b.oh.ng`&apos;`D; vHmw{'>'}uGJrkm b.C;w{'>'}o;ckupD.0JRusdRw{'>'}rRvd</a>
+        <a target='_blank' className='text-2xl border-b-black border-b-[.5px] font-bold hover:text-purple-500 hover:cursor-pointer'>w{'>'}bd;b.oh.ng &apos;D; vHmw{'>'}uGJrkm b.C;w{'>'}o;ckupD.0JRusdRw{'>'}rRvd</a>
       </Link>
       <Link href='/resources/Meeting_report/KBCUSA religion education training 2016.pdf'>
-        <a target='_blank' className='text-2xl border-b-black border-b-[.5px] font-bold hover:text-purple-500 hover:cursor-pointer'>w{'>'}bd;b.oh.ng `&apos;`D; vHmw{'>'}uGJrkm b.C; c&Hmzd w{'>'}ul. b.ul.oh 0JRusdR w{'>'}rRvd</a>
+        <a target='_blank' className='text-2xl border-b-black border-b-[.5px] font-bold hover:text-purple-500 hover:cursor-pointer'>w{'>'}bd;b.oh.ng &apos; D; vHmw{'>'}uGJrkm b.C; c&Hmzd w{'>'}ul. b.ul.oh 0JRusdR w{'>'}rRvd</a>
       </Link>
       <Link href='/resources/Meeting_report/kbcusa regional report.pdf'>
-        <a target='_blank' className='text-2xl border-b-black border-b-[.5px] font-bold hover:text-purple-500 hover:cursor-pointer'>u0DRw{'>'}ymzsg ql u&Xrd{'>'}yS{'>'} w{'>'}td{'>'}zSd.z;`&apos;`d. t`&apos;`d</a>
+        <a target='_blank' className='text-2xl border-b-black border-b-[.5px] font-bold hover:text-purple-500 hover:cursor-pointer'>u0DRw{'>'}ymzsg ql u&Xrd{'>'}yS{'>'} w{'>'}td{'>'}zSd.z; &apos; d. t &apos; d</a>
       </Link>
       <Link href='/resources/Meeting_report/KBCUSA 501c3 exemptions.pdf'>
         <a target='_blank' className='text-2xl border-b-black border-b-[.5px] font-bold font-sans hover:text-purple-500 hover:cursor-pointer'>KBCUSA 501c3 Group Exemption</a>

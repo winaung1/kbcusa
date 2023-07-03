@@ -12,7 +12,12 @@ function GraceRight3() {
       <strong>eD&gt; o; t w&gt; td. rl w&gt; *JR vdm  </strong><br/>
       b. C; &apos;D; eD&gt; o; w&gt; [l; w&gt; *JR M. y 0J ydm rk. u &amp;X y td. &apos;D; w&gt; u wdR o wl&gt; u vm &apos;D; w&gt;%l; jyX vHm pD qSH M. vDRI  <br/>
     </p>
+
+    <li><a href='/components/Churches/GKBC/GraceKarenBaptistChurch' target='_blank' className='underline hover:text-blue-500 hover:cursor-pointer text-[30px]'>1I w&gt; td.zSd.w&gt; *h&gt; vXtylRuGHmwz. <span className='font-sans text-xl'>(GKBC)</span></a>   </li>
     </div>
+    
+
+
   )
 }
 

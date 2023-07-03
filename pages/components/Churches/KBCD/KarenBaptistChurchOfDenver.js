@@ -17,12 +17,15 @@ function KarenBaptistChurchOfDenver() {
     <div className='w-[1023px] mx-auto min-h-screen'>
     <Header/>
     <Navbar/>
-    <Image src='/images/KarenBaptistChurchOfDenverImage/First Karen Baptist Church of Denver.jpg' width={1024} height={260} alt='denver'/>
+    <Image src='/images/KarenBaptistChurchOfDenverImage/FirstKarenBaptistChurchofDenver.jpg' width={1024} height={260} alt='denver'/>
     <div className='flex bg-white'>
       <ContentTemplatesLeft
         title="w>td.zSd.o&." 
         pic="/images/KarenBaptistChurchOfDenverImage/LarMoo.jpg"
-        description="o&.tgpJ;rllw>td.zSd.o&."
+       
+
+        description="o&.'d.vX>rlr.&nbsp;wh.w>td.zSd.o&."
+        
         title2="w> bg t qX u wD>"
         title3="vXw>qJ;usd;t*D>"
         para1={<DeverLeft1/>}

@@ -13,6 +13,9 @@ function DenverRight4() {
 
      w&gt; od. vd td. 0J w EGH  cH bsD Ark&gt; oX eHR A&apos;D; Ark&gt; Ck eHR A [g A6=9e. &amp;H. IA w&gt; rR vd  td. 0J cH y wD&gt; M. vDRIA wX w y wD&gt; M. A</span><span class="nu"> (Christian ministry) </span><span class="k2">&apos;D; cH wD&gt; w y wD&gt; M. rh&gt; 0J </span><span class="nu">(Diploma in Theology)</span><span class="k2"> M. vDRIA uFd tHR b. w&gt;  od. vd tDR vX tJ uvH; usdm &lt;A unD usdm &apos;D; y ,DR usdm M. vDRIA w&gt; rR vd w  y wD&gt; pkm pkm M. t bl; t vJ w *R rh&gt; 0J A 75 &apos;D v. M.v DRIA
      </span>
+
+
+     <li><a href='/components/Churches/KBCD/KarenBaptistChurchOfDenver' target='_blank' className='underline hover:text-blue-500 hover:cursor-pointer'>1I&apos;hbX&gt;unDbsXxHc&Hmzdw&gt;td.zSd.<span className='font-sans text-sm'>,</span></a>Aw&gt;td.zSd.o&.=o&.&apos;d.vX&gt;rl r.wh.</li>
     </div>
   )
 }

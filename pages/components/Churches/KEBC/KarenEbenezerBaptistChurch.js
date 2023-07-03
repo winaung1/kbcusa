@@ -10,6 +10,7 @@ import EbenezarLeft2 from './EbenezarLeft2'
 import EbenezarRight1 from './EbenezarRight1'
 import EbenezarRight2 from './EbenezarRight2'
 import EbenezarRight3 from './EbenezarRight3'
+import EbenezarRight4 from './EbenezarRight4'
 
 function KarenEbenezerBaptistChurch() {
   return (
@@ -21,7 +22,10 @@ function KarenEbenezerBaptistChurch() {
       <ContentTemplatesLeft
         title="w>td.zSd.o&." 
         pic="/images/KarenEbenezerBaptistChurchImage/Debora.jpg"
-        description="o&.tgpJ;rllw>td.zSd.o&."
+        pic2="/images/KarenEbenezerBaptistChurchImage/Debora.jpg"
+        fontz="text-xl"
+        description="w>td.zSd.o&.rk.   'd.'bd&.'H"
+        description2="w>td.zSd.o&.rk.tpXR'bd&.'H"
         title2="w> bg t qX u wD>"
         title3="vXw>qJ;usd;t*D>"
         para1={<EbenezarLeft1/>}
@@ -37,9 +41,12 @@ function KarenEbenezerBaptistChurch() {
             para1={<EbenezarRight1/>}
             para2={<EbenezarRight2/>}
             para3={<EbenezarRight3/>}
+            para4={<EbenezarRight4/>}
+           
             line1={<hr className='w-[98%] border-[.5px] border-black'/>}
             line2={<hr className='w-[98%] border-[.5px] border-black'/>}
             line3={<hr className='w-[98%] border-[.5px] border-black'/>}
+            line4={<hr className='w-[98%] border-[.5px] border-black'/>}
         />
     </div>
     <Footer/>

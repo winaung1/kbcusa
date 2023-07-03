@@ -6,9 +6,8 @@ function ThirdMainContent() {
     <div className='px-12'>
       <div className='w-[800px] mx-auto flex flex-wrap gap-5 p-2'>
         <HomePagePastorsImg img='/images/ThirdLinkImages/KweKbawLay.jpg' definition='o&.&apos;d.uGJ&gt;ubDvh u. u0DRcd.' alt='KweKbawLay'/>
-        <HomePagePastorsImg img='/images/ThirdLinkImages/Nuyttin.jpg' definition='o&.&apos;d.rgnd.wh. Au0DRcd.c' alt='Nuyttin'/>
-        <HomePagePastorsImg img='/images/ThirdLinkImages/panawdee.jpg' definition='o&.zged. &apos;hu0DReJ%GJ.' alt='panawdee'/>
-        <HomePagePastorsImg img='/images/ThirdLinkImages/Isaac.jpg' definition='o&.tgpJ;rl u0DReJ.%GJ.oCJR' alt='Isaac'/>
+        <HomePagePastorsImg img='/images/ThirdLinkImages/Nuyttin.jpg' definition='o&.&apos;d.rgnd.wh. Au0DRcd.cH' alt='Nuyttin'/>
+        <HomePagePastorsImg img='/images/ThirdLinkImages/Isaac.jpg' definition='o&.tgpJ;rl u0DReJ.%GJ.' alt='Isaac'/>
         <HomePagePastorsImg img='/images/ThirdLinkImages/MooDay.jpg' definition='o;yS>rl&apos;hu0DRySRyXRph' alt='Mooday'/>
         <HomePagePastorsImg img='/images/ThirdLinkImages/PoTuJu.jpg' definition='o&.zdwluFL; u0DRySRyXRph' alt='poTuJu'/>
         <HomePagePastorsImg img='/images/ThirdLinkImages/preehtoo.gif' definition='o&.rk.jyHxl u0DRySRorHord;p' alt='preehtoo'/>

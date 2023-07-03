@@ -8,6 +8,9 @@ import Navbar from '../../Navbar'
 import HGNKBCparagraph1Left from './HGNKBCparagraph1Left'
 import HGNKBCparagraph1right from './HGNKBCparagraph1right'
 import HGNKBCparagraph2Left from './HGNKBCparagraph2Left'
+import HGNKBCParagraph2right from './HGNKBCParagraph2right'
+import HGNKBCParagraph3right from './HGNKBCParagraph3right'
+
 
 
 function HteeGerNeeKarenBaptistChurch() {
@@ -31,7 +34,16 @@ function HteeGerNeeKarenBaptistChurch() {
         titleSpan="Htee Ger Nee Karen Baptist Church"
         title2="xH*X>eHRunDbsXxHc& Hmzdw>td.zSd.t*h>tusdRzk.udmA"
         para1={<HGNKBCparagraph1right/>}
+        para2={<HGNKBCParagraph2right/>}
+        para3={<HGNKBCParagraph3right/>}
+       
+       
+       
         line1={<hr className='w-[98%] border-[.5px] border-black'/>}
+        line2={<hr className='w-[98%] border-[.5px] border-black'/>}
+        line3={<hr className='w-[98%] border-[.5px] border-black'/>}
+       
+        
       />
     </div>
     <Footer/>

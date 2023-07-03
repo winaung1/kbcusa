@@ -9,6 +9,7 @@ import TMBKCparagraph1Left from './TMBKCparagraph1Left'
 import TMBKCparagraph1Right from './TMBKCparagraph1Right'
 import TMBKCparagraph2Left from './TMBKCparagraph2Left'
 import TMBKCparagraph2Right from './TMBKCparagraph2Right'
+import TMBKCParagraph3Right from './TMBKCParagraph3Right'
 
 
 function TeeMohBwarKarenBaptistChurch() {
@@ -33,8 +34,10 @@ function TeeMohBwarKarenBaptistChurch() {
         title2="xH*X>eHRunDbsXxHc& Hmzdw>td.zSd.t*h>tusdRzk.udmA"
         para1={<TMBKCparagraph1Right/>}
         para2={<TMBKCparagraph2Right/>}
+        para3={<TMBKCParagraph3Right/>}
         line1={<hr className='w-[98%] border-[.5px] border-black'/>}
         line2={<hr className='w-[98%] border-[.5px] border-black'/>}
+        line3={<hr className='w-[98%] border-[.5px] border-black'/>}
       />
     </div>
     <Footer/>

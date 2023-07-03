@@ -4,7 +4,7 @@ function KnyawLeft1() {
   return (
     <div>
       <span class="k2"> rk&gt; td. bSH; t eHR [g A1;00A e. &amp;H. wD wD </span>
-      <p><span className='font-sans'> Sunday Worship Service begins at 1:00PM</span><br/>
+      <p><span className='font-sans'>  Worship Service begins at 1:00PM</span><br/>
       <br/>
       <span class="kh2">td.bSH;eHRtw&gt;rRvd </span><span class="k2"> 
       <br/>
@@ -12,6 +12,7 @@ function KnyawLeft1() {
       </p>
     </div>
   )
+
 }
 
 export default KnyawLeft1

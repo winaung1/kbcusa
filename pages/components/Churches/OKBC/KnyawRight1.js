@@ -1,6 +1,8 @@
+import Image from "next/image"
 
 function KnyawRight1() {
   return (
+    
     <div>
       <p><span class="k2">  td; r [. u nD bsX  xH c&amp;Hm zd w&gt; td. zSd. t ylR u GHm b. w&gt; oh. ng tDR &apos;f t rh&gt; pX  pJ. [h (v) unD bsX xH c&amp;Hm zd w&gt; td. zSd. M. vDRIA ud; EGH &apos;J; ySR unD  zd vX ttd. zJ w&gt; vD&gt; t 0J tHR [J xD. bg ,GR td. 0J t *R A 300u ydm u yR  M. vDRIA tylR uGHm ySR vJR bg oud; ,GR vX zk o &amp;. &apos;d. nd; wh. t w&gt; td.  zSd. o &amp;dm wX b. q. &nbsp;cD zsd ySR eD.  *H&gt; tg xD. td. wkR vX t *R A 3Au ,R t Cd y cd. y e&gt; Ck xX tg xD. o  &amp;dm t oD zJ</span><span class="nu"> (Sunset Hill)</span><span class="k2"> o &amp;dm &apos;D; w&gt; td. zSd. b.w &gt; &apos;k; td. xD. tDR zJ A vg ed. 0h bX. A8 oD&lt;A 2009 eH. M. vDRIA w&gt; td. zSd.t rD xd. rh&gt; 0J&lt; A<br/>
       <br/>
@@ -35,7 +37,9 @@ function KnyawRight1() {
       ud; EGH &apos;J; C. C.  M. o; p&gt; w&gt; td. zSd. o &amp;. &apos;D;t ySR o; p&gt; w z. [; bg oud; ,GR&nbsp; vX w&gt; td. zSd. zd vX ttd. vX u &amp;X csX  &apos;D; [J bg ,GR w bl. w z. &apos;D; w&gt; td. zSd. zd vX t b. ql; b. qg w z. t td. z  Jrk&gt; Ck eHR [g M. vDRIA <br/>
       <br/>
       oX vg w bsD td.  &apos;D; usJ; pX; u &amp;X t w&gt; jyX &apos;D; w&gt; jyX tHR t w&gt; y nd. rh&gt;  0J&nbsp; w&gt; rR &apos;l xD. ySR o;&nbsp; p&gt; w z. u oh xD.vX u rsX&gt; t rJm ng t  *D&gt; w&gt; [l; w&gt; *JR &apos;f trh&gt; A 1IA w&gt; o; 0H. jyX&lt;A 2IA w&gt;  uwdR owl&gt; u vm&lt;A 3IA w&gt; uwdR *h&gt; vdm&lt;A &apos;D; A 4IA w&gt; %l; jyX  vHm pD qSH w z. M.vDRIA w&gt; td. zSd. yX  qSX w&gt; u rH wHmw z.A 4 vg w bsD td. &apos;D;w&gt; td. zSd. M. vDRIA </span></p>
+     
     </div>
+    
   )
 }
 

@@ -50,6 +50,11 @@ function Footer() {
     },
     {
       id: 7,
+      title: "တၢ်သးခုကစီၣ်ဝဲၤကျိၤ" ,
+      link: "/components/MinistryDepartment/MinistryDepartment"
+    },
+    {
+      id: 8,
       title: "တၢ်ဆဲးကျိး" ,
       link: "/components/SixHomePage/SixHomePage"
     },

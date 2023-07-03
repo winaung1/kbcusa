@@ -5,7 +5,7 @@ import {ChevronDownIcon} from '@heroicons/react/24/solid'
 function MainContentRightSide() {
   return (
     <div className='p-2 flex-1'>
-      <h1 className='text-xl text-[#8C3420] py-2'>ပကွဲမုာ််ဒီးတူူလိာ််မုာ််သု</h1>
+      <h1 className='text-xl text-[#8C3420] py-2'>ပကွဲမုာ်ဒီးတူၢ်လိာ်မုာ်သု</h1>
       {/* <h1 className='text-xl text-[#8C3420] py-2'>yuGJrkmf&aposD;wlIvdmfrkmfok</h1> */}
       <p className='text-xl'>
 	ql y ySm ,JR o M vX t b. C; &apos;D; u vHR pd; cX. o; u 0DR u nD bsX xH c&amp;Hm zd w&gt; td. zSd. o ud; w&gt; td. zSd. tHR M. vDRIA y u 0DR t *h&gt; t usdR&lt; At w&gt; zH; w&gt; rR t 0JR usdR 0JR &apos;h w z.&lt; Aw&gt; td. zSd. vX t rR o ud; w&gt; vX u 0DR tHR t ylR w z.&lt; A y [D. u 0DR uD&gt; pJ. t *h&gt; t usdR Ckm &apos;D; w&gt; *h&gt; t *kR t *R oh. w z. y Ck xH. oh. ng tDR ohzJ y ySm ,JR o M t ylR tHR M. vDRI A rf c&amp;Hm t w&gt; Cl w&gt; zd; vDR b. vX ok vdR xl; xl; wDR wDR ud; *R w uh&gt; M. rh&gt; y u 0DR t w&gt; qX *hR ok M . vDRI 
@@ -40,6 +40,7 @@ c&Hmzdw>td.zSd.
         <HomePagePastorsImg img='/images/homePageRightSideImages/Debora.jpg' definition="cJpX.pH;xHRcJpX.unDbsXxH
 c&Hmzdw>td.zSd.
 (0h> cJpJX.)" alt='paster-1'link="/components/Churches/KCKKBC/KansasCityKansasKarenBaptistChurch"/> 
+ <HomePagePastorsImg img='/images/homePageRightSideImages/Debora.jpg' definition="unDbsXxH c&Hm zd thR bhR M p> w> td. zSd. (cd.vd.&.'d>)" alt='debora' link="/components/Churches/ZLKBC/ZionKarenBaptistChurch"/> 
       </div>
       <div>
         <p>unD&apos;Duvkm</p>

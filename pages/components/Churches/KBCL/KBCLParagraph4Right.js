@@ -14,7 +14,7 @@ function KBCLParagraph4Right() {
 
         <span class="k2"><strong>ydmrk.  u&amp;X w&gt; [l; w&gt; *JR </strong><br/>
         w eH. w bsD w&gt;  rR tg xD. ph rR bl. &apos;D; w&gt; rR o ud; ph A 5 wR v.&nbsp; vX t rh&gt; w&gt; [h.eDR vDR vHm &apos;X vX tylR  td. &apos;D; ph &apos;D; wkR vX eH. u wX&gt; w&gt; xX zSd. uhR tDR M. vDRIA </span>
-    </div>
+         </div>
   )
 }
 

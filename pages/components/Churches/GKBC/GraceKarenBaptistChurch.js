@@ -10,6 +10,7 @@ import GraceLeft2 from './GraceLeft2'
 import GraceRight1 from './GraceRight1'
 import GraceRight2 from './GraceRight2'
 import GraceRight3 from './GraceRight3'
+import GraceRight4 from './GraceRight4'
 
 function GraceKarenBaptistChurch() {
   return (
@@ -19,9 +20,11 @@ function GraceKarenBaptistChurch() {
     <Image src='/images/GraceKarenBaptistChurchImage/GraceKarenBaptistChurch.gif' width={1024} height={260} alt='grace'/>
     <div className='flex bg-white'>
       <ContentTemplatesLeft
-        title="w>td.zSd.o&." 
+        title="w>td.zSd.o&.rk." 
         pic="/images/GraceKarenBaptistChurchImage/pastor.gif"
-        description="o&.tgpJ;rllw>td.zSd.o&."
+      
+        description="o&.rk._yHxlw>td.zSd.o&.rk."
+        description2="o&.rk._yHxl w>td.zSd.o&.rk. pXR"
         title2="w> bg t qX u wD>"
         title3="vXw>qJ;usd;t*D>"
         para1={<GraceLeft1/>}
@@ -36,9 +39,11 @@ function GraceKarenBaptistChurch() {
             para1={<GraceRight1/>}
             para2={<GraceRight2/>}
             para3={<GraceRight3/>}
+            para4={<GraceRight4/>}
             line1={<hr className='w-[98%] border-[.5px] border-black'/>}
             line2={<hr className='w-[98%] border-[.5px] border-black'/>}
             line3={<hr className='w-[98%] border-[.5px] border-black'/>}
+            line4={<hr className='w-[98%] border-[.5px] border-black'/>}
         />
     </div>
     <Footer/>

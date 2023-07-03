@@ -5,8 +5,10 @@ import Header from '../Header'
 import ContentTemplatesLeft from '../LeftAndRightContent/ContentTemplatesLeft'
 import ContentTemplatesRight from '../LeftAndRightContent/ContentTemplatesRight'
 import Navbar from '../Navbar'
+import EmmanuelRight1 from './EmmanuelRight1'
 import EKBCparagraph1Left from './EKBCparagraph1Left'
 import EKBCparagraph2Left from './EKBCparagraph2Left'
+import EmmanuelRight2 from './EmmanuelRight2'
 
 
 function EmmanuelKarenBaptistChurch() {
@@ -28,11 +30,16 @@ function EmmanuelKarenBaptistChurch() {
       <ContentTemplatesRight
         title1="{hRrREkRthv;unDbsXxHc&Hmzdw>td.zSd."
         titleSpan="Emmanuel Karen Baptist Church"
-        // title2="xH*X>eHRunDbsXxHc& Hmzdw>td.zSd.t*h>tusdRzk.udmA"
-        // para1={<TMBKCparagraph1Right/>}
-        // para2={<TMBKCparagraph2Right/>}
-        // line1={<hr className='w-[98%] border-[.5px] border-black'/>}
-        // line2={<hr className='w-[98%] border-[.5px] border-black'/>}
+        title2="xH*X>eHRunDbsXxHc& Hmzdw>td.zSd.t*h>tusdRzk.udmA"
+        para1={<EmmanuelRight1/>}
+        para2={<EmmanuelRight2/>}
+        line1={<hr className='w-[98%] border-[.5px] border-black'/>}
+        line2={<hr className='w-[98%] border-[.5px] border-black'/>}
+        line3={<hr className='w-[98%] border-[.5px] border-black'/>}
+        line4={<hr className='w-[98%] border-[.5px] border-black'/>}
+    
+       
+        
       />
     </div>
     <Footer/>
@@ -41,3 +48,4 @@ function EmmanuelKarenBaptistChurch() {
 }
 
 export default EmmanuelKarenBaptistChurch
+
